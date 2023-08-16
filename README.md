@@ -1,5 +1,5 @@
-# Comparison of large-scale plasma proteomics through genetics and disease
-Supplementary code for the article "Comparison of large-scale plasma proteomics through genetics and disease"
+# Large-scale plasma proteomics comparisons through genetics and disease associations
+Supplementary code for the article "Large-scale plasma proteomics comparisons through genetics and disease associations"
 
 This repository contains the custom code central to the calculaton in the CV ratio and power analyses. 
 
